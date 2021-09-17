@@ -3,6 +3,7 @@
 int main () {
 	
 	float salario, reajuste;
+	//variável que armazena o código relacionado a profissão
 	int cod;
 	
 	printf("Insira seu salario bruto: ");
